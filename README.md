@@ -1,4 +1,3 @@
 # Programa-ao-estruturada
-trabalhos que fiz na cadeira de programçao estruturada
+trabalhos que fiz na cadeira de programaçao estruturada
 
-nao consegui usar o gets, para armazenar o usuario em abrir conta
